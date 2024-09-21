@@ -1,0 +1,18 @@
+
+.sign{
+    width: 200px;
+    background-color: rgba(7, 202, 7, 0.932);
+    border-radius: 10px;
+    border-width: 0px;
+}
+.container{
+          width:400px;
+          height:600px;
+          margin:auto;
+          background-color:white;
+          border-radius:5px ;
+}
+.width{
+     width:300px;
+
+}
